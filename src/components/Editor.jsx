@@ -78,7 +78,7 @@ const Editor = () => {
 
     // connect To backend
     // const BACKEND_URL = "http://192.168.1.13:9000/";
-    const BACKEND_URL = "http://localhost:9000/";
+    const BACKEND_URL = "https://google-docs-backend-9tsp.onrender.com";
 
     // console.log("gonna try connecting to socket");
 
